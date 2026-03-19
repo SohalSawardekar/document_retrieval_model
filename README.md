@@ -333,6 +333,3 @@ The `/search` endpoint accepts:
 - **pydantic**: Data validation
 - **uvicorn**: ASGI server
 
-## License
-
-MIT License
